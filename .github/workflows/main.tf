@@ -2,7 +2,7 @@ terraform {
   required_providers {
     snowflake = {
       source  = "chanzuckerberg/snowflake"
-      version = "0.25.17"
+      version = "1.6.4"
     }
   }
 
